@@ -1,6 +1,6 @@
 # İşaret ve Sistemler
 
-    Reponun İçerisindekiler:
+    Reponun İçindekiler:
 <ul>
 <li>Vize Notları</li>
 <li>Final Notları</li>
